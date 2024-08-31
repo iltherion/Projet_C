@@ -36,3 +36,10 @@ void erreur_argc(int retour)
 		exit(2);
 	}
 }
+
+int addition ( int a , int b)
+{
+	int c; 
+	c = a +b;
+	return c ;
+}
