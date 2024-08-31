@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*Passage en mode développement */
+
 void suite()
 {
 	printf("Bienvenu dans le monde du c\n");
