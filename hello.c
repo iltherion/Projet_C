@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Passage en mode développement */
+/*Passage en mode développement deuxième partie*/
 
 void suite()
 {
