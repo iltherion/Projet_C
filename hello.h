@@ -1,3 +1,10 @@
+
+enum photo  
+{
+	NOIR_BLANC,
+	COULEUR,
+};
+
 int hello();
 void suite();
 int verif_argc ( int argc , int compare);
