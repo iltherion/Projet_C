@@ -43,3 +43,10 @@ int addition ( int a , int b)
 	c = a +b;
 	return c ;
 }
+
+void  erreur_addition ()
+{
+	printf("Erreur sur la fonction addition");
+	return 0;
+}
+
